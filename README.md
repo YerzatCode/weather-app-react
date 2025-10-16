@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Create React App-пен жұмысты бастау
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Бұл жоба [Create React App](https://github.com/facebook/create-react-app) көмегімен жасалған.
 
-## Available Scripts
+## Қолжетімді скрипттер
 
-In the project directory, you can run:
+Жоба директориясында келесі командаларды орындай аласыз:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Қосымшаны әзірлеу режимінде іске қосады.\
+Браузерде көру үшін [http://localhost:3000](http://localhost:3000) мекенжайын ашыңыз.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Өзгерістер енгізген кезде бет автоматты түрде жаңартылады.\
+Сонымен қатар, консольде lint қателерін көре аласыз.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Интерактивті бақылау режимінде тест орындаушысын іске қосады.\
+Қосымша ақпарат алу үшін [тестілеу туралы](https://facebook.github.io/create-react-app/docs/running-tests) бөлімін қараңыз.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Өндіріске арналған қосымшаны `build` қалтасына құрастырады.\
+React-ті өндіріс режимінде дұрыс байланыстырады және ең жақсы өнімділік үшін құрастыруды оңтайландырады.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Құрастыру кішірейтілген және файл атаулары хештерді қамтиды.\
+Сіздің қосымшаңыз орналастыруға дайын!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Қосымша ақпарат алу үшін [орналастыру туралы](https://facebook.github.io/create-react-app/docs/deployment) бөлімін қараңыз.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Ескерту: бұл бір жақты операция. `eject` командасын орындағаннан кейін, кері қайта алмайсыз!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Егер сіз құрастыру құралы мен конфигурация таңдауларына қанағаттанбасаңыз, кез-келген уақытта `eject` командасын орындай аласыз. Бұл команда жобаңыздан жалғыз құрастыру тәуелділігін жояды.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Оның орнына, барлық конфигурация файлдары мен транзитивті тәуелділіктерді (webpack, Babel, ESLint және т.б.) тікелей жобаңызға көшіреді, осылайша оларды толық бақылай аласыз. `eject` командасынан басқа барлық командалар жұмыс істейді, бірақ олар көшірілген скрипттерге сілтеме жасайды, сондықтан оларды өзгерте аласыз. Осы сәттен бастап сіз өз бетіңізше әрекет етесіз.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Сізге `eject` командасын ешқашан қолданудың қажеті жоқ болуы мүмкін. Дайындалған мүмкіндіктер жиынтығы шағын және орта жобалар үшін қолайлы, және сіз бұл мүмкіндікті қолдануға міндетті емессіз.
 
-## Learn More
+## Қосымша ақпарат
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Create React App құжаттамасынан](https://facebook.github.io/create-react-app/docs/getting-started) көбірек біле аласыз.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React-ті үйрену үшін [React құжаттамасын](https://reactjs.org/) қараңыз.
 
-### Code Splitting
+### Кодты бөлу
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/code-splitting) көшірілді.
 
-### Analyzing the Bundle Size
+### Бандл өлшемін талдау
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size) көшірілді.
 
-### Making a Progressive Web App
+### Прогрессивті веб-қосымша жасау
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) көшірілді.
 
-### Advanced Configuration
+### Кеңейтілген конфигурация
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/advanced-configuration) көшірілді.
 
-### Deployment
+### Орналастыру
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/deployment) көшірілді.
 
-### `npm run build` fails to minify
+### `npm run build` кішірейту қатесі
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Бұл бөлім [осында](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) көшірілді.
